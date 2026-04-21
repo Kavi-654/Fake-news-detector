@@ -1,0 +1,8 @@
+{
+  "sensational": ["shocking", "unbelievable", "exposed", "bombshell",
+                  "miracle", "breaking", "exclusive", "scandal"],
+  "clickbait": ["you won't believe", "what they don't want",
+                "this changes everything", "doctors hate"],
+  "fear_words": ["danger", "conspiracy", "urgent", "warning",
+                 "banned", "secret", "cover-up", "they don't want you"]
+}
